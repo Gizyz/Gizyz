@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gizyx
+- 👋 Hi, I’m Karl-Gustav
 - 👀 I’m interested in climbing and stuff
 - 🌱 I’m currently learning html, javascript, css, python, php, sql, go.
 - 📫 How to reach me katha003@osloskolen.no
